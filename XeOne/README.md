@@ -1,11 +1,13 @@
 # XeOne
-
-Template suitable for any creative or business startups. 
-
+[Live Preview](https://ahmedali5696.github.io/resume/projects/xeone)
 - HTML5 & CSS3
 - Responsive
 - Commented
 - Prefixed
+
+## HTML & CSS preprocessors:
+- Pug
+- Sass
 
 ## Frameworks & librarys:
 - Bootstrap v4.1
@@ -14,13 +16,5 @@ Template suitable for any creative or business startups.
 - Owl Carousel
 - Float-Panel
 
-## HTML & CSS preprocessors:
-- Pug
-- Sass
-
 ## Photos
 ![](https://github.com/ahmedali5696/MyProjects/blob/master/XeOne.png)
-
-![](https://github.com/ahmedali5696/MyProjects/blob/master/XeOne/screen.jpg)
-
-![](https://github.com/ahmedali5696/MyProjects/blob/master/XeOne/screen1.jpg)
